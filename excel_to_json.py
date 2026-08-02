@@ -159,7 +159,6 @@ def main():
             "name": name,
             "class": exam_class,
             "section": section,
-            "fatherName": "",
             "subjects": subj_rows
         })
         auto_roll += 1

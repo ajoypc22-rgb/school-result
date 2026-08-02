@@ -101,7 +101,6 @@ function renderResult(student) {
   el("studentName").textContent = student.name;
   el("metaRoll").textContent = student.roll;
   el("metaClass").textContent = [student.class, student.section].filter(Boolean).join(" - ");
-  el("metaFather").textContent = student.fatherName || "—";
 
   const tbody = el("subjectRows");
   tbody.innerHTML = "";
