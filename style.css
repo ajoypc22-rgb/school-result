@@ -319,6 +319,11 @@ a { color: inherit; }
   text-align: right;
 }
 
+.subject-table th:not(:first-child),
+.subject-table td:not(:first-child) {
+  text-align: center;
+}
+
 .subject-table td {
   padding: 9px 6px;
   border-bottom: 1px solid #EAE6D9;

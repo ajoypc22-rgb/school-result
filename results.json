@@ -16,42 +16,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -65,42 +85,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -114,42 +154,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 10,
           "grade": "A-"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -163,42 +223,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 28,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 6.5,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 10,
           "grade": "A-"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         }
       ]
@@ -212,42 +292,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -261,42 +361,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -310,42 +430,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -359,42 +499,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 28,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 8,
           "grade": "B"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         }
       ]
@@ -408,42 +568,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 20,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -457,42 +637,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         }
       ]
@@ -506,42 +706,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 7,
           "grade": "D"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         }
       ]
@@ -555,42 +775,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -604,42 +844,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -653,42 +913,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -702,42 +982,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 23,
           "grade": "A"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         }
       ]
@@ -751,42 +1051,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -800,42 +1120,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -849,42 +1189,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         }
       ]
@@ -898,42 +1258,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -947,42 +1327,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 17,
           "grade": "B"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 27,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 10,
           "grade": "A-"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 9,
           "grade": "C"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 21,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         }
       ]
@@ -996,42 +1396,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 10,
           "grade": "A-"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1045,42 +1465,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 11,
           "grade": "A"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1094,42 +1534,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 27,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 13,
           "grade": "A-"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         }
       ]
@@ -1143,42 +1603,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 26,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 17,
           "grade": "A"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 24,
           "grade": "A+"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 12,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         }
       ]
@@ -1192,42 +1672,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         }
       ]
@@ -1241,42 +1741,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1290,42 +1810,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         }
       ]
@@ -1339,42 +1879,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1388,42 +1948,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1437,42 +2017,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 9,
           "grade": "A-"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1486,42 +2086,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1535,42 +2155,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 24,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 11,
           "grade": "B"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 20,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 24,
           "grade": "A+"
         }
       ]
@@ -1584,42 +2224,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 26,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 8,
           "grade": "B"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 10,
           "grade": "C"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 8,
           "grade": "B"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 12,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 13,
           "grade": "C"
         }
       ]
@@ -1633,42 +2293,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 13,
           "grade": "C"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 23,
           "grade": "A"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 12,
           "grade": "B"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 13,
           "grade": "C"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         }
       ]
@@ -1682,42 +2362,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 26,
           "grade": "A+"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 22,
           "grade": "A"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 29,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 17,
           "grade": "A"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 8,
           "grade": "B"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 17,
           "grade": "B"
         }
       ]
@@ -1731,42 +2431,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 10,
           "grade": "A-"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         }
       ]
@@ -1780,42 +2500,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 28,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 10,
           "grade": "C"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 17,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         }
       ]
@@ -1829,42 +2569,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 20,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 30,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 17,
           "grade": "A"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 26,
           "grade": "A+"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         }
       ]
@@ -1878,42 +2638,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1927,42 +2707,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 23,
           "grade": "A"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 12,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -1976,42 +2776,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 15,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         }
       ]
@@ -2025,42 +2845,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 8,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 27,
           "grade": "A+"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 28,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 11,
           "grade": "A"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 13,
           "grade": "A-"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 12,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 21,
           "grade": "A-"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         }
       ]
@@ -2074,42 +2914,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 13,
           "grade": "C"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 27,
           "grade": "A+"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 27,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 18,
           "grade": "A+"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 22,
           "grade": "A"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 21,
           "grade": "A-"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 17,
           "grade": "B"
         }
       ]
@@ -2123,42 +2983,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 20,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 24,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 10,
           "grade": "A-"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 17,
           "grade": "A"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 23,
           "grade": "A"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 15,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 23,
           "grade": "A"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 19,
           "grade": "A-"
         }
       ]
@@ -2172,42 +3052,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 21,
           "grade": "A-"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 17,
           "grade": "A"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 22,
           "grade": "A"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 23,
           "grade": "A"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         }
       ]
@@ -2221,42 +3121,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 16,
           "grade": "B"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 20,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 21,
           "grade": "A-"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 11,
           "grade": "A"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 18,
           "grade": "A+"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 27,
           "grade": "A+"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 26,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         }
       ]
@@ -2270,42 +3190,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 13,
           "grade": "C"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 22,
           "grade": "A"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 24,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 11,
           "grade": "B"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 10,
           "grade": "D"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2319,42 +3259,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2368,42 +3328,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2417,42 +3397,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         }
       ]
@@ -2466,42 +3466,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 13,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2515,42 +3535,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 17,
           "grade": "B"
         }
       ]
@@ -2564,42 +3604,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 24,
           "grade": "A+"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 28,
           "grade": "A+"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 15,
           "grade": "A"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 17,
           "grade": "B"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 14,
           "grade": "A+"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 25,
           "grade": "A+"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2613,42 +3673,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         }
       ]
@@ -2662,42 +3742,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 18,
           "grade": "A-"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 8,
           "grade": "B"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         }
       ]
@@ -2711,42 +3811,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         }
       ]
@@ -2760,42 +3880,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 14,
           "grade": "C"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2809,42 +3949,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 6,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 7,
           "grade": "C"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 9,
           "grade": "D"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         }
       ]
@@ -2858,42 +4018,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 3,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 7,
           "grade": "F"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 4,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 2,
           "grade": "F"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 0,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         }
       ]
@@ -2907,42 +4087,62 @@
       "subjects": [
         {
           "name": "বাংলা",
+          "total": 30,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ইংরেজি",
+          "total": 30,
+          "obtained": 11,
           "grade": "D"
         },
         {
           "name": "গণিত",
+          "total": 30,
+          "obtained": 22,
           "grade": "A"
         },
         {
           "name": "বা.বি.প.",
+          "total": 15,
+          "obtained": 6,
           "grade": "D"
         },
         {
           "name": "কৃষি শিক্ষা",
+          "total": 25,
+          "obtained": 5,
           "grade": "F"
         },
         {
           "name": "ধর্ম",
+          "total": 30,
+          "obtained": 12,
           "grade": "C"
         },
         {
           "name": "পদার্থ",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "রসায়ন",
+          "total": 15,
+          "obtained": 5,
           "grade": "D"
         },
         {
           "name": "ট্রেড-1",
+          "total": 30,
+          "obtained": 1,
           "grade": "F"
         },
         {
           "name": "ট্রেড-2",
+          "total": 30,
+          "obtained": 4,
           "grade": "F"
         }
       ]

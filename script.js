@@ -74,7 +74,14 @@ function calcResult(student) {
       failCount++;
     }
     total += point_;
-    return { name: s.name, grade: s.grade, point: point_, isFail };
+    return {
+      name: s.name,
+      total: s.total !== undefined ? s.total : null,
+      obtained: s.obtained !== undefined ? s.obtained : null,
+      grade: s.grade,
+      point: point_,
+      isFail
+    };
   });
 
   const rawAvg = subjects.length ? total / subjects.length : 0;
@@ -100,8 +107,12 @@ function renderResult(student) {
   tbody.innerHTML = "";
   r.rows.forEach((row) => {
     const tr = document.createElement("tr");
+    const totalCell = row.total !== null ? row.total : "—";
+    const obtainedCell = row.obtained !== null ? row.obtained : "—";
     tr.innerHTML = `
       <td>${escapeHtml(row.name)}</td>
+      <td>${escapeHtml(totalCell)}</td>
+      <td>${escapeHtml(obtainedCell)}</td>
       <td><span class="grade-pill ${row.isFail ? "fail" : ""}">${escapeHtml(row.grade)}</span></td>
       <td>${row.point.toFixed(2)}</td>
     `;

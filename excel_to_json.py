@@ -147,7 +147,12 @@ def main():
             total = total if isinstance(total, (int, float)) else 0
             obtained = obtained if isinstance(obtained, (int, float)) else None
             grade = grade_for(obtained, total)
-            subj_rows.append({"name": subj_name, "grade": grade})
+            subj_rows.append({
+                "name": subj_name,
+                "total": total,
+                "obtained": obtained if obtained is not None else 0,
+                "grade": grade
+            })
 
         students.append({
             "roll": roll,
