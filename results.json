@@ -1,0 +1,2951 @@
+{
+  "school": {
+    "name": "প্রবর্তক স্কুল এন্ড কলেজ",
+    "address": "পাঁচলাইশ, চট্টগ্রাম",
+    "logo": "logo.png",
+    "examName": "১ম মূল্যায়ন পরীক্ষা-২০২৬",
+    "examClass": "৯ম শ্রেণি (ভোকেশনাল)"
+  },
+  "students": [
+    {
+      "roll": "1",
+      "name": "Shuvo Chakma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "2",
+      "name": "Md Hemel Khan",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "3",
+      "name": "Adil",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A-"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "C"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "4",
+      "name": "Kartik Mojumder",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "C"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A-"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "5",
+      "name": "Isran Khondkar Alif",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "6",
+      "name": "Ibrahim Uhan",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "7",
+      "name": "Faysal Mohammad Soni",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "C"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "C"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "8",
+      "name": "Insan Sangma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "B"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "C"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "9",
+      "name": "Arafat Yeasin",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "10",
+      "name": "Tanmoy Devnath",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "B"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "C"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "11",
+      "name": "Arnob Muhury",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "D"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "D"
+        }
+      ]
+    },
+    {
+      "roll": "12",
+      "name": "Md. Emon",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "13",
+      "name": "Md. Rabbi",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "14",
+      "name": "Jakir Hossain Jihad",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "15",
+      "name": "Jit Pal",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "C"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "16",
+      "name": "Oni Gupta",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "D"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "17",
+      "name": "Md. Sahil",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "18",
+      "name": "Koshik Kumar Das",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "C"
+        },
+        {
+          "name": "গণিত",
+          "grade": "B"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "D"
+        }
+      ]
+    },
+    {
+      "roll": "19",
+      "name": "Majedhul Hoq Osin",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "20",
+      "name": "Badhon Dey",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "B"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "B"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A-"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "C"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "21",
+      "name": "Md. Nissan",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A-"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "22",
+      "name": "Rabiul Hasan Jihad",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "23",
+      "name": "Korno Tripura",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "C"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A-"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "C"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "roll": "24",
+      "name": "Shakil Tripura",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "A+"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "B"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A+"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "C"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "25",
+      "name": "Md. Morsalin",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "roll": "26",
+      "name": "Abu Ahamad Reja",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "B"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "27",
+      "name": "Mb. Romjan Bin",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "28",
+      "name": "Ohidhul Hoq",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "29",
+      "name": "Easin Arafat",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "30",
+      "name": "Miskatul Islam",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A-"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "31",
+      "name": "Mithun Dey",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "B"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "32",
+      "name": "Uchaising Marma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "B"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "C"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "B"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "A+"
+        }
+      ]
+    },
+    {
+      "roll": "33",
+      "name": "Devasish Dey",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "C"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "B"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "C"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "B"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "C"
+        }
+      ]
+    },
+    {
+      "roll": "34",
+      "name": "Shubom Das",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "C"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "B"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "C"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "35",
+      "name": "Diben Tripura",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "A+"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A+"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "B"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "36",
+      "name": "Riptho Chowdhury",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "C"
+        },
+        {
+          "name": "গণিত",
+          "grade": "D"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "C"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A-"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "B"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "37",
+      "name": "Irfan Chowdhury",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "C"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "C"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "C"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "A+"
+        }
+      ]
+    },
+    {
+      "roll": "38",
+      "name": "Rahul Kanti Dey",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "A-"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A+"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "D"
+        }
+      ]
+    },
+    {
+      "roll": "39",
+      "name": "Diptoman Dey Dip",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "C"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "C"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "40",
+      "name": "Forhad Hossain",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "41",
+      "name": "Dipanita Das",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "A-"
+        }
+      ]
+    },
+    {
+      "roll": "42",
+      "name": "Hlakhyaising Marma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A+"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A-"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A+"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "A-"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "A-"
+        }
+      ]
+    },
+    {
+      "roll": "43",
+      "name": "Sinmaypure Marma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "C"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A+"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A+"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "A-"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "44",
+      "name": "Maysathui Marma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "D"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A-"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "A"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "A-"
+        }
+      ]
+    },
+    {
+      "roll": "45",
+      "name": "Oyshe Barua",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A+"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A-"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "C"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "A"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "A-"
+        }
+      ]
+    },
+    {
+      "roll": "46",
+      "name": "Arpita Rani Pal",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "B"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A-"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A+"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A+"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "47",
+      "name": "May Sing Aong Marma",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "C"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "B"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "A-"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "48",
+      "name": "Taslima Akatar",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "49",
+      "name": "Afroja Sultana",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "50",
+      "name": "Fatema Aktar Oyshi",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "51",
+      "name": "Onidita Barua Payel",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "52",
+      "name": "Samiul Misfa",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "B"
+        }
+      ]
+    },
+    {
+      "roll": "53",
+      "name": "Tereja Tripura",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "C"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A+"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A+"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "A+"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "A"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "B"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "A+"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "A+"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "54",
+      "name": "Jubayed Hossain",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "C"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "55",
+      "name": "Md. Riyadhul Islam Samir",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "A-"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "B"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "56",
+      "name": "Ashraful Hoq Shamim",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "57",
+      "name": "Srabon Rangsha",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "C"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "C"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "58",
+      "name": "Jifad Ahamad Kayem",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "C"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "D"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "59",
+      "name": "Abdullah Al Ikran",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "F"
+        },
+        {
+          "name": "গণিত",
+          "grade": "F"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "F"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "F"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "F"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    },
+    {
+      "roll": "60",
+      "name": "Md. Sukran Shah",
+      "class": "৯ম",
+      "section": "ভোকেশনাল",
+      "fatherName": "",
+      "subjects": [
+        {
+          "name": "বাংলা",
+          "grade": "F"
+        },
+        {
+          "name": "ইংরেজি",
+          "grade": "D"
+        },
+        {
+          "name": "গণিত",
+          "grade": "A"
+        },
+        {
+          "name": "বা.বি.প.",
+          "grade": "D"
+        },
+        {
+          "name": "কৃষি শিক্ষা",
+          "grade": "F"
+        },
+        {
+          "name": "ধর্ম",
+          "grade": "C"
+        },
+        {
+          "name": "পদার্থ",
+          "grade": "D"
+        },
+        {
+          "name": "রসায়ন",
+          "grade": "D"
+        },
+        {
+          "name": "ট্রেড-1",
+          "grade": "F"
+        },
+        {
+          "name": "ট্রেড-2",
+          "grade": "F"
+        }
+      ]
+    }
+  ]
+}
